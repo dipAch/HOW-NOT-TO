@@ -43,8 +43,8 @@ to the data that the problem uses to drive itself. We could have used an _Object
 problem, which would have helped in better organizing the solution and would have also enabled other features that OOP 
 makes available to its users.
 + It lacks Abstraction and Encapsulation.
-  - There is no proper hiding or in this case, no hiding at all of the variuos attributes and entities from the outside world.
-  - We are not just exposing an interface, but we keeping everything transparent to the outside world.
+  - There is no proper hiding or in this case, no hiding at all of the various attributes and entities from the outside world.
+  - We are not just exposing an interface, but we are keeping everything transparent to the outside world.
 
 ## USE OF A FRAMEWORK
 Although using a Framework absracts out most of the inner details, when starting out one should know the details that Frameworks 
