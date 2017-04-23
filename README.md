@@ -5,7 +5,7 @@ The thought process that went in at that time is the same for anyone who is new 
 others in having a better approach to their problems. Hope you understand the importance of good design and following the 
 standards introduced by our industry experts over the years. Happy Coding!!!
 
-## CODE ORGANIZATION
+## NO CODE ORGANIZATION
 The code base is barely organized, there is no proper container/sperator for the files being used. Having such a code base causes 
 problem in the long-run, in terms of maintainability & understanding the application flow.
 All the files appear within the same base folder, irrespective of their work domain (i.e., what functinality they provide to the application).
