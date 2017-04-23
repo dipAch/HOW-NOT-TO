@@ -20,7 +20,7 @@ If you happen to peek inside the code base, you will see a practical example of 
 not follow the principles of good (if not best) software design.
 + One can see a lot of repitition. This is the root of most bugs. Repitition == Bugs (:bug:)
 + The number of files is also out of bounds. The **_funny_** part is even ** Github did not allow me to upload so many files. I had to       leave some of them out**.
-+ Almost, the same functionality is also put into differant files which could have been designed to implement polymorphism (taking
++ Similar functionality is put into different files which could have been designed to implement polymorphism (taking
   different forms based on context).
 
 ## NO NOTION OF CODE REUSE
